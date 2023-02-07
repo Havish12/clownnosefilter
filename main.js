@@ -39,7 +39,7 @@ function draw()
 
 function take_snapshot()
 {
-    save('havish.png');
+    save('yourimage.png');
 }
 
 
